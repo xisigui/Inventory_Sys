@@ -1,0 +1,11 @@
+C:\Users\Martin\source\repos\inventory_project\inventory_project\bin\Debug\inventory_project.exe.config
+C:\Users\Martin\source\repos\inventory_project\inventory_project\bin\Debug\inventory_project.exe
+C:\Users\Martin\source\repos\inventory_project\inventory_project\bin\Debug\inventory_project.pdb
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.Form1.resources
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.Properties.Resources.resources
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.exe
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.pdb
+C:\Users\Martin\source\repos\inventory_project\inventory_project\obj\Debug\inventory_project.Form2.resources
